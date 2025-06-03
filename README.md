@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h1>Linguagens e Tecnologias</h1>
+  <p>Linguagens e Tecnologias</p>
   <img align="center" alt="Castxr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Castxr-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="Castxr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
