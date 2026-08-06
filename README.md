@@ -1,10 +1,17 @@
-## Olá, sou o Gabriel Castor, mais conhecido como castor! Estou estudando ciência da computação e adiciono aqui alguns trabalhos da faculdade e alguns projetos pessoais.
+## Gabriel Castor
+<hr></hr>
+Cursando ciência da computação e atualmente QA na Alterdata Software
+<hr></hr>
 
-<div>
-  <a href="https://github.com/Castxr">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Castxr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+###Sobre mim
+
+<p>Futuro desenvolvedor com foco atual em aprender desenvolvimento back-end. Tenho cursos na área do front-end, mas até o momento não vi muito sobre o back.
+
+Venho estudando principalmente o Phyton, mas tive contato na faculdade com algumas outras linguagens como Java, C# e .NET10 para criação de API's em sistemas com arquitetura de projeto real
+
+Juntamente com as linguagens em estudo, estou buscando aprendizado na área de desenvolvimento com ia utilizando principalmente o modelo spec-driven</p>
+
+
 
 <div style="display: inline_block"><br>
   <p>Linguagens e Tecnologias</p>
@@ -20,6 +27,7 @@
   ##
  
 <div> 
+  ####Contatos
   <a href="https://instagram.com/_castorcastor_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielcastordeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-castor-6a4280368/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
