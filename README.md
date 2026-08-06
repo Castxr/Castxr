@@ -3,7 +3,7 @@
 Cursando ciência da computação e atualmente QA na Alterdata Software
 <hr></hr>
 
-<h2>Sobre mim</h2>h2>
+<h2>Sobre mim</h2>
 
 <p>Futuro desenvolvedor com foco atual em aprender desenvolvimento back-end. Tenho cursos na área do front-end, mas até o momento não vi muito sobre o back.
 
