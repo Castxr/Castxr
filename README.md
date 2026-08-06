@@ -1,4 +1,4 @@
-## Oi oi eu sou o Gabriel Castor, um jovem querendo iniciar no mundo da programação!
+## Olá, sou o Gabriel Castor, mais conhecido como castor! Estou estudando ciência da computação e adiciono aqui alguns trabalhos da faculdade e alguns projetos pessoais.
 
 <div>
   <a href="https://github.com/Castxr">
